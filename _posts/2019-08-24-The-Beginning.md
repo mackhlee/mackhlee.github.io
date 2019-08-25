@@ -10,7 +10,7 @@ While he had a great plan, I plan on adapting it a bit so it's more suited to my
 ### Revised plan in order:
 
 #### PYTHON BASICS
-* [Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section of Data and Empirics] (https://lectures.quantecon.org/py/)
+* [Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section of Data and Empirics](https://lectures.quantecon.org/py/)
 * Chapters 1 - 4 from [_Python Data Science Handbook_](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
 * Then this Pandas [tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 * Here are some excellent pandas code [examples](https://github.com/wesm/pydata-book)
