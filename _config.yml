@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: From 'Data Scientist' to Data Scientist
+title: Mackenzie Lee
 
 # Short description of your site
 description: Follow the journey as I finally do it 
@@ -21,6 +21,8 @@ description: Follow the journey as I finally do it
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Blog: "mackhlee.github.io"
+  Porfolio:
   Resources:
     - The Video: "https://www.youtube.com/watch?v=eTxyviU0Ddo/"
 
