@@ -10,7 +10,7 @@ While he had a great plan, I plan on adapting it a bit so it's more suited to my
 ### Revised plan in order:
 
 #### PYTHON BASICS
-* (Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section of Data and Empirics) [https://lectures.quantecon.org/py/]
+* [Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section of Data and Empirics] (https://lectures.quantecon.org/py/)
 * Chapters 1 - 4 from [_Python Data Science Handbook_](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
 * Then this Pandas [tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 * Here are some excellent pandas code [examples](https://github.com/wesm/pydata-book)
@@ -23,53 +23,53 @@ While he had a great plan, I plan on adapting it a bit so it's more suited to my
 
 ##### CALCULUS
 * [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-* https://www.khanacademy.org/math/calculus-1
-* https://www.khanacademy.org/math/calculus-2
-* https://www.khanacademy.org/math/multivariable-calculus
+* [Khan Academy Calc 1](https://www.khanacademy.org/math/calculus-1)
+* [Khan Academy Calc 2](https://www.khanacademy.org/math/calculus-2)
+* [Khan Academy Calc 3](https://www.khanacademy.org/math/multivariable-calculus)
 
 ##### PROBABILITY AND STATISTICS
-* https://www.khanacademy.org/math/statistics-probability
+* [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
 ##### STATISTICAL LEARNING 
-* https://work.caltech.edu/telecourse.html
+* [Cal Tech](https://work.caltech.edu/telecourse.html)
 * [An Introduction to Statistical Learning](http://greenteapress.com/thinkstats/thinkstats.pdf) (Essential) (I hate this book...)
 
 #### TAKE THIS CLASS
-* https://cs109.github.io/2015/index.html
+* [Harvard class](https://cs109.github.io/2015/index.html)
 
 #### DATA EXPLORATION
-* https://github.com/StephenElston/ExploringDataWithPython/blob/master/LearningDataVisualization.ipynb
-* https://www.kaggle.com/c/titanic#description
+* [Learn Data Visualization](https://github.com/StephenElston/ExploringDataWithPython/blob/master/LearningDataVisualization.ipynb)
+* [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic#description)
 
-#### Independent Project
+#### --Independent Project--
 
 #### MORE PYTHON
 * Work through as many of the examples as you fancy in Chapters 6 and 7 [here](https://scipython.com/book/)
 
 #### DATA STRUCTURES AND ALGORITHMS IN PYTHON
-* https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
-* https://runestone.academy/runestone/books/published/pythonds/index.html
+* [Udacity Data Structures and Algorithms Free Course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 
 #### PYTHON AND DATA SCIENCE
 * Chapter 5 [_Python Data Science Handbook_](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
-* https://scikit-learn.org/stable/tutorial/index.html
+* [scikit-learn](https://scikit-learn.org/stable/tutorial/index.html)
 
 #### PRACTICE PYTHON PROJECTS
-* https://github.com/tuvtran/project-based-learning#python
-* https://projecteuler.net/
+* [GitHub Project Based Learning](https://github.com/tuvtran/project-based-learning#python)
+* [Project Euler](https://projecteuler.net/)
 
-#### Projects
+#### --Projects--
 
 #### Extras
 
 ##### TENSORFLOW
-* https://developers.google.com/machine-learning/crash-course/
+* [Google Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 ##### SQL
-* https://www.khanacademy.org/computing/computer-programming/sql
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 
 ##### GIT AND VERSION CONTROL
-* https://git-scm.com/book/en/v2 
+* [Pro Git Book](https://git-scm.com/book/en/v2)
 
 
 This is my current plan, which will probably change as I get a feel for the material and my own aptitude. I don't have a set timeline, since I'm unsure of how busy I'll be, but I would like to finish all this in a reasonable time frame. If you compare his plan to mine, you'll have noticed I removed most of the math books. A good thing I learned from college is what works for me, so I'll adapt as needed to save time. I also will do some of these simultaneously as I think that will make sense in some cases. For example, I'll probably start with the Python basics, but also be looking at the linear algebra material at the same time. In general, the plan will be to finish all the math first and hopefully by that point I'll have finished the Python basics. Afterwards, I'll take that Harvard class then do the data visualization section. At this point, I should be decent at the very least I hope. I'll probably try some independent 'capstone' project to mark a significant milestone in the course as well and get the portfolio started. The focus now will really be honing data science skills, which means much more Python and getting into the heavier computer science materials. I'll then begin the Python data science specifics before really beginning the practice Python projects. Once all this is said and done, a significant amount of time may have passed, but my skills should have grown accordingly (man, I really hope). I will just be trying a bunch of projects after that. I count the rest of the material as extras if I have time. I actually feel comfortable with SQL, but TensorFlow and Git are things I think will be better learned when I use them or I may even look at those resources in a project. 
